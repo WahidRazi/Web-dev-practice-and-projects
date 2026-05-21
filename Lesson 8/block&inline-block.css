@@ -1,0 +1,16 @@
+.namebox,
+.emailbox{
+  display:  block;
+  margin: 5px;
+  width: 200px;
+}
+
+  p{
+    width: 250px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  button{
+    vertical-align: middle;
+  }
