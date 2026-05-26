@@ -1,0 +1,48 @@
+        .imgdiv{
+          display: inline-block;
+          vertical-align: middle;
+        }
+        
+        .profile-pic{
+          width: 60px;
+          height: 60px;
+          object-fit: cover;
+          object-position: center;
+          border-radius: 30px;
+          vertical-align: middle;
+          margin: 15px;
+        }
+        
+        
+        .infodiv{
+          display: inline-block;
+          vertical-align: middle;
+          width: 170px;
+        }
+        
+        p{
+        margin: 4px 0px;
+        vertical-align: middle;
+        font-family: Arial;
+        font-size: 13px;
+        }
+        
+        .name{
+          font-weight: bold;
+        }
+        
+        .otherinfo{
+          color: rgb(150,150,150);
+        }
+        
+        button{
+          border: none;
+          color: white;
+          background-color: rgb(40,140,240);
+          padding: 7px 12px;
+          border-radius: 4px;
+        }
+        
+        .buttondiv{
+          display: inline-block;
+        }
